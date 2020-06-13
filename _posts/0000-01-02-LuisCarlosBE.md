@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+No tenemos nada que esconder
 Use the left arrow to go back!
